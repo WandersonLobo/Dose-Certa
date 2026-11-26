@@ -1,9 +1,11 @@
-# Minimundo
+# Minimundo — Dose Certa
 
-O sistema representa a rotina de pacientes que precisam seguir um ou mais tratamentos com medicamentos prescritos. Cada paciente pode cadastrar seus tratamentos e as respectivas prescrições, incluindo os medicamentos, as doses, o período de uso e os horários indicados.
+O Dose Certa tem como objetivo auxiliar pacientes na organização e no acompanhamento de tratamentos medicamentosos, contribuindo para a prevenção de esquecimentos e do uso inadequado de medicamentos.
 
-Para cada medicamento de uma prescrição, o sistema registra os horários em que a dose deve ser tomada. O paciente consulta esses horários e registra se tomou, esqueceu ou adiou cada dose. Assim, o sistema mantém um histórico de acompanhamento do tratamento.
+Cada paciente pode possuir vários tratamentos, compostos por uma ou mais prescrições. Uma prescrição pode conter diversos medicamentos, assim como um medicamento pode estar presente em diferentes prescrições. Para cada medicamento prescrito, são registradas informações sobre sua dosagem, frequência, horários e período de utilização.
 
-O paciente também pode autorizar um ou mais cuidadores a acompanharem sua rotina. O cuidador pode consultar os tratamentos e os registros de doses dos pacientes que o autorizaram, além de ajudá-los a organizar as informações.
+O paciente pode acompanhar suas doses programadas, receber lembretes e registrar a utilização dos medicamentos, mantendo um histórico das administrações realizadas e das doses esquecidas. As alterações nas orientações recebidas devem preservar o histórico do tratamento.
 
-O sistema serve para apoiar a organização e o acompanhamento das orientações recebidas. As prescrições e doses são cadastradas conforme a orientação profissional; o sistema não recomenda medicamentos, não altera doses e não substitui a avaliação de profissionais de saúde.
+Os usuários podem atuar como pacientes, cuidadores ou ambos. Um paciente pode autorizar diferentes cuidadores a acompanharem seus tratamentos, assim como um cuidador pode acompanhar vários pacientes, auxiliando na organização e no registro da utilização dos medicamentos.
+
+O sistema possui caráter organizacional e informativo, não realizando diagnósticos, recomendações de medicamentos ou alterações nas orientações dos profissionais de saúde.
