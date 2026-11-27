@@ -65,3 +65,15 @@
 | RF34 | Cancelar as doses futuras de tratamentos interrompidos, preservando seus registros.  
 | RF35 | Identificar e registrar o usuário responsável pelo registro de cada administração de medicamento.  
 | RF36 | Identificar e registrar o usuário responsável pelo registro de cada alteração nas orientações prescritas.  
+
+
+## 2. Requisitos não funcionais (RNF)
+
+| ID | Categoria | Descrição |
+| --- | --- | --- |
+| RNF01 | Segurança | Proteger os dados contra acessos e modificações não autorizados.  
+| RNF02 | Privacidade | Restringir o acesso às informações dos pacientes aos usuários devidamente autorizados.  
+| RNF03 | Integridade | Garantir a integridade referencial e a consistência das informações armazenadas.  
+| RNF04 | Confiabilidade | Garantir que as operações de alteração dos dados não comprometam os registros existentes.  
+| RNF05 | Rastreabilidade | Possibilitar a identificação dos responsáveis pelos registros cuja autoria deve ser preservada.  
+| RNF06 | Manutenibilidade | Possuir uma estrutura de dados documentada e compreensível, facilitando sua manutenção e evolução.  
